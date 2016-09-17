@@ -1,0 +1,28 @@
+{
+  "name": "psr7",
+  "version": "0.0.0",
+  "description": "Designed to be as close to the PSR7 spec as reasonable. This is to help reduce mental context-switching between languages. Also, I don't know why most JS frameworks treat requests and responses as meager JSON parameter objects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Incognito/js-psr7-requests.git"
+  },
+  "keywords": [
+    "psr7",
+    "request",
+    "response",
+    "http"
+  ],
+  "author": "Brian Graham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Incognito/js-psr7-requests/issues"
+  },
+  "homepage": "https://github.com/Incognito/js-psr7-requests#readme",
+  "devDependencies": {
+    "jasmine": "^2.4.1"
+  }
+}
